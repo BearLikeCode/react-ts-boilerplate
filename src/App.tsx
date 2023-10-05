@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="flex w-full">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
