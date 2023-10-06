@@ -8,7 +8,7 @@
         "standard-with-typescript",
         "plugin:react/recommended",
         "plugin:@typescript-eslint/recommended",
-        "prettier"
+        // "prettier"
     ],
     "parserOptions": {
         "ecmaFeatures": {
@@ -20,7 +20,7 @@
     "plugins": [
         "react",
         "@typescript-eslint",
-        "prettier"
+        // "prettier"
     ],
     "rules": {
     }
