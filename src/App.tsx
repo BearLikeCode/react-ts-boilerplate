@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Main } from './pages'
-import Providers from './providers/';
+import { Main } from 'pages'
+import Providers from 'providers/';
 
 function App() {
   return (
